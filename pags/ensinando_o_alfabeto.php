@@ -184,7 +184,7 @@ session_start();
 </section>
 
 
-<section class="contact "> 
+<section class="contact ">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-5 container-fluid">
@@ -204,12 +204,12 @@ session_start();
             <label for="exampleFormControlTextarea1" class="form-label"></label>
             <textarea class="form-control" name="depoimento" placeholder="Conte algo para nós" rows="3"></textarea>
           </div>
-     
+
           <div class="mb-3 container-fluid">
             <label for="exampleFormControlTextarea1" class="form-label container-fluid">Foto
             </label>
             <input class="container-fluid" type="file" name="imagem" />
-          </div> 
+          </div>
 
           <p></p>
           <input type="hidden" name="pagina" value="ensinando_o_alfabeto"></input>

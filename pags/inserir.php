@@ -23,9 +23,7 @@ mysqli_close($link);
   //  echo "Possível ataque de upload de arquivo!\n";
 //}
 
-//echo 'Aqui está mais informações de debug:';
+//echo 'Mais informações de debug:';
 //print_r($_FILES);
 
 //print "</pre>";
-
-?>
